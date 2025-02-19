@@ -28,6 +28,12 @@
 - 📩 Email: mr.prashantbhople@gmail.com  
 
 ### 📌 Featured Projects  
-- **[Lead Magnet for Utiliko Plugin](https://wordpress.org/plugins/lead-magnet-for-utiliko/)** – A custom CRM integration plugin for WordPress  
+🚀 **[Lead Magnet for Utiliko](https://wordpress.org/plugins/lead-magnet-for-utiliko/)**  
+A WordPress plugin that enables seamless CRM integration for Utiliko, streamlining lead synchronization.  
 
+🔹 **Key Features:**  
+- WPForms, Contact Form 7, Gravity Forms, and Ninja Forms integration  
+- Secure CRM API communication  
+- Automated lead capture and synchronization  
+- User-friendly admin interface
 ---
