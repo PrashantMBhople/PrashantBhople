@@ -32,7 +32,7 @@
 A WordPress plugin that enables seamless CRM integration for Utiliko, streamlining lead synchronization.  
 
 🔹 **Key Features:**  
-- WPForms, Contact Form 7, Gravity Forms, and Ninja Forms integration  
+- WPForms Forms integration  
 - Secure CRM API communication  
 - Automated lead capture and synchronization  
 - User-friendly admin interface
