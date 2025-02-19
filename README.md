@@ -23,8 +23,7 @@
 - 🌐 **Online Portfolio:** [Visit My Portfolio](http://prashantbhople.wix.com/pmbgroup)  
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](your-link-here)  
-- 🌐 [Portfolio](your-link-here)  
+- 💼 [LinkedIn]([Prashant Bhople](https://www.linkedin.com/in/prashant-bhople-66b72722/))  
 - 📩 Email: mr.prashantbhople@gmail.com  
 
 ### 📌 Featured Projects  
